@@ -1,0 +1,13 @@
+.badge {
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 14px;
+}
+.badge.open {
+  color: white;
+  background: green;
+}
+.badge.busy {
+  color: white;
+  background: gray;
+}
