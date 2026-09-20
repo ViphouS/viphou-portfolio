@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="profile">
       <h1>Viphou</h1>
-      <p>Goal: build one small React project every week.</p>
+      <p>Goal: learn React fundamentals and build real projects.</p>
       <StatusBadge isOpenToWork={false} />
     </div>
   )
